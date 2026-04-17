@@ -1,6 +1,6 @@
-# Secure Banking (Embedded)
+# Banking simulation (Embedded)
 
-An Arduino-based embedded simulation of the secure_cpp_banking system. Features keypad input, LCD output, EEPROM storage, and a menu-driven ATM system.
+An Arduino-based embedded simulation of the cpp_banking system. Features keypad input, LCD output, EEPROM storage, and a menu-driven ATM system.
 A simple banking system built in C++ that supports account management and basic transactions using file handling.
 
 ## Features
